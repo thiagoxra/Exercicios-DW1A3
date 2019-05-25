@@ -1,0 +1,23 @@
+fieldset {
+    background-color: blue;
+    text-align: left;
+    color: white;
+    margin-right: 650pt;
+    margin-left: 20pt;
+    width: 300px;
+}
+
+h1 {
+    text-align: center;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+
+#botao{
+    background-color: green;
+
+
+}

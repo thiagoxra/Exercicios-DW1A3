@@ -1,0 +1,54 @@
+.linha {
+    background-color: rgb(238, 238, 238);
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+
+.titulo-brand {
+    font-size: 1rem;
+    font-weight: bold;
+    color: 1px solid black;
+    font-size: 2rem;
+}
+
+.risca-pagina {
+    border-bottom: 1px solid black;
+}
+
+
+
+
+.th,
+td {
+    border: none;
+    background-color: #dddddd;
+    padding: 5px;
+    width: 100px;
+}
+
+
+
+<link * {
+    font-family: Arial, Verdana, sans-serif;
+    color: #665544;
+    text-align: center;
+}
+
+#nav,
+#feature,
+.article,
+#footer {
+    background-color: #efefef;
+    margin-top: 20px;
+    padding: 10px 0px 5px 0px;
+}
+
+#feature,
+.article {
+    height: 100px;
+}
+
+li {
+    display: inline;
+    padding: 5px;
+}
